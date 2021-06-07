@@ -6,7 +6,7 @@ My name is Meghan (she/her), and R is my favorite language—besides emojis. :he
 
 :ice_hockey:&nbsp; I also like hockey. I use R as a tool for analyzing hockey, and I use hockey as a tool for teaching R! (Particularly the tidyverse, and particularly to beginners.) I have a package called [betweenthepipes](https://github.com/meghall06/betweenthepipes) that hosts learnr tutorials and some sample data, and I've delivered some talks/workshops (available on my website).
 
-:woman_teacher:&nbsp; In Summer 2021, I'm teaching the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. The public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
+:woman_teacher:&nbsp; In Summer 2021, I'm teaching the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. This course focuses on data visualization using R and `ggplot2`. The public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
 
 I can be found on Twitter [@MeghanMHall](https://twitter.com/MeghanMHall), and my website is here: [meghan.rbind.io](https://meghan.rbind.io/). 
 
