@@ -2,11 +2,11 @@
 
 My name is Meghan (she/her), and I use & teach R.
 
-:mortar_board:&nbsp; I use R every day in my career as a data professional in higher ed. That work is private and not on GitHub, but right now I'm working on creating internal packages and automating reports with R Markdown!
+:mortar_board:&nbsp; I use R every day in my career as a data professional in higher ed (I was also previously a data scientist at Zelus Analytics). That work is private and not on GitHub, but right now my focus is on developing internal packages and parameterized reports with R Markdown.
 
-:ice_hockey:&nbsp; I also like hockey. I use R as a tool for analyzing hockey, and I use hockey as a tool for teaching R! (Particularly the tidyverse, and particularly to beginners.) I have a package called [betweenthepipes](https://github.com/meghall06/betweenthepipes) that hosts learnr tutorials and some sample data, and I've delivered some talks/workshops (available on my website).
+:woman_teacher:&nbsp; I love helping people learn R, particularly by teaching the tidyverse to beginners. I've given several talks and workshops, all available on my [website](https://meghan.rbind.io/talk/), and would like to expand my work in this area. In Summer 2021, I taught the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. This course focused on data visualization using R and `ggplot2`, and the public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
 
-:woman_teacher:&nbsp; In Summer 2021, I'm teaching the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. This course focuses on data visualization using R and `ggplot2`. The public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
+:ice_hockey:&nbsp; I also like hockey. I use R as a tool for analyzing hockey, and I use hockey as a tool for teaching R! I have a package called [betweenthepipes](https://github.com/meghall06/betweenthepipes) that hosts learnr tutorials and some sample data, and several of my talks/workshops have been focused on sports analytics.
 
 I can be found on Twitter [@MeghanMHall](https://twitter.com/MeghanMHall), and my website is here: [meghan.rbind.io](https://meghan.rbind.io/). 
 
