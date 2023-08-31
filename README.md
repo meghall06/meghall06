@@ -1,12 +1,10 @@
 ### Hello! 👋
 
-My name is Meghan (she/her), and I use & teach R.
+My name is Meghan (she/her), and I use & teach R, with a particular love for `ggplot2` and `quarto`.
 
-:mortar_board:&nbsp; I use R every day in my career as a data professional in higher ed (I was also previously a data scientist at Zelus Analytics). That work is private and not on GitHub, but right now my focus is on developing internal packages and parameterized reports with R Markdown.
+:ice_hockey:&nbsp; After many years of contributing to the public hockey analytics community, I now work full-time in sports analytics as the technical product manager of the hockey group at [Zelus Analytics](https://zelusanalytics.com/).
 
-:woman_teacher:&nbsp; I love helping people learn R, particularly by teaching the tidyverse to beginners. I've given several talks and workshops, all available on my [website](https://meghan.rbind.io/talk/), and would like to expand my work in this area. In Summer 2021, I taught the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. This course focused on data visualization using R and `ggplot2`, and the public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
-
-:ice_hockey:&nbsp; I also like hockey. I use R as a tool for analyzing hockey, and I use hockey as a tool for teaching R! I have a package called [betweenthepipes](https://github.com/meghall06/betweenthepipes) that hosts learnr tutorials and some sample data, and several of my talks/workshops have been focused on sports analytics.
+:woman_teacher:&nbsp; I love helping people learn R, particularly by teaching the tidyverse to beginners. I've given several talks and workshops, many focused on sports analytics and all available on my [website](https://meghan.rbind.io/talk/), and in summer 2021, I taught the Statistical Graphics & Visualization course through the Department of Statistics & Data Science at Carnegie Mellon University. This course focused on data visualization using R and `ggplot2`, and the public-facing course website (built with [distill](https://rstudio.github.io/distill/)) is here: [cmu-36315.netlify.app](https://cmu-36315.netlify.app/).
 
 I can be found on Twitter [@MeghanMHall](https://twitter.com/MeghanMHall), and my website is here: [meghan.rbind.io](https://meghan.rbind.io/). 
 
